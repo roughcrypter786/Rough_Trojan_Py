@@ -2,6 +2,9 @@ import os
 import socket
 import subprocess
 
+print("Rough Crypter")
+print("roughcrypter786@gmail.com)
+
 # Server configuration
 SERVER_HOST = 'localhost'
 SERVER_PORT = 4444
